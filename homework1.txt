@@ -1,0 +1,19 @@
+#!/bin/bash
+
+#Homework1
+
+family="Miller"
+
+necklace="diamonds"
+
+echo Rumpelstilskin
+
+echo "The $family was too poor to pay taxes."
+
+echo "The King ordered the $family to go to prison."
+
+echo "The $family was ashamed what he had done."
+
+echo "The $family's daughter offered her necklace."
+
+From K20 Lear Website.
